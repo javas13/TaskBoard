@@ -1,0 +1,14 @@
+C:\Users\Andrey\source\repos\TaskBoard\TaskBoard.Core\bin\Debug\net8.0\TaskBoard.Core.deps.json
+C:\Users\Andrey\source\repos\TaskBoard\TaskBoard.Core\bin\Debug\net8.0\TaskBoard.Core.dll
+C:\Users\Andrey\source\repos\TaskBoard\TaskBoard.Core\bin\Debug\net8.0\TaskBoard.Core.pdb
+C:\Users\Andrey\source\repos\TaskBoard\TaskBoard.Core\obj\Debug\net8.0\TaskBoard.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\TaskBoard\TaskBoard.Core\obj\Debug\net8.0\TaskBoard.Core.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\TaskBoard\TaskBoard.Core\obj\Debug\net8.0\TaskBoard.Core.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\TaskBoard\TaskBoard.Core\obj\Debug\net8.0\TaskBoard.Core.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\TaskBoard\TaskBoard.Core\obj\Debug\net8.0\TaskBoard.Core.dll
+C:\Users\Andrey\source\repos\TaskBoard\TaskBoard.Core\obj\Debug\net8.0\refint\TaskBoard.Core.dll
+C:\Users\Andrey\source\repos\TaskBoard\TaskBoard.Core\obj\Debug\net8.0\TaskBoard.Core.pdb
+C:\Users\Andrey\source\repos\TaskBoard\TaskBoard.Core\obj\Debug\net8.0\ref\TaskBoard.Core.dll
+C:\Users\Andrey\source\repos\TaskBoard\TaskBoard.Core\bin\Debug\net8.0\TaskBoard.Core.runtimeconfig.json
+C:\Users\Andrey\source\repos\TaskBoard\TaskBoard.Core\obj\Debug\net8.0\TaskBoard.Core.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\TaskBoard\TaskBoard.Core\obj\Debug\net8.0\TaskBoard.Core.csproj.AssemblyReference.cache

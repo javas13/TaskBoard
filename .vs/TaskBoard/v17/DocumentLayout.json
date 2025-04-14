@@ -1,0 +1,960 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|solutionrelative:taskboard.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.dataaccess\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|solutionrelative:taskboard.dataaccess\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|solutionrelative:taskboard.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.api\\controllers\\objectivescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|solutionrelative:taskboard.api\\controllers\\objectivescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.dataaccess\\taskboarddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|solutionrelative:taskboard.dataaccess\\taskboarddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1285F5E-D54E-43D9-A510-9464A64EA88F}|TaskBoard.Application\\TaskBoard.Application.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.application\\services\\projectsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1285F5E-D54E-43D9-A510-9464A64EA88F}|TaskBoard.Application\\TaskBoard.Application.csproj|solutionrelative:taskboard.application\\services\\projectsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|solutionrelative:taskboard.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.core\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|solutionrelative:taskboard.core\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.api\\contracts\\projects\\projectcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|solutionrelative:taskboard.api\\contracts\\projects\\projectcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1285F5E-D54E-43D9-A510-9464A64EA88F}|TaskBoard.Application\\TaskBoard.Application.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.application\\infrastructure\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1285F5E-D54E-43D9-A510-9464A64EA88F}|TaskBoard.Application\\TaskBoard.Application.csproj|solutionrelative:taskboard.application\\infrastructure\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1285F5E-D54E-43D9-A510-9464A64EA88F}|TaskBoard.Application\\TaskBoard.Application.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.application\\infrastructure\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1285F5E-D54E-43D9-A510-9464A64EA88F}|TaskBoard.Application\\TaskBoard.Application.csproj|solutionrelative:taskboard.application\\infrastructure\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1285F5E-D54E-43D9-A510-9464A64EA88F}|TaskBoard.Application\\TaskBoard.Application.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.application\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1285F5E-D54E-43D9-A510-9464A64EA88F}|TaskBoard.Application\\TaskBoard.Application.csproj|solutionrelative:taskboard.application\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.dataaccess\\repositories\\projectsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|solutionrelative:taskboard.dataaccess\\repositories\\projectsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.api\\extensions\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|solutionrelative:taskboard.api\\extensions\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.dataaccess\\repositories\\objectivesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|solutionrelative:taskboard.dataaccess\\repositories\\objectivesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.core\\interfaces\\iprojectsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|solutionrelative:taskboard.core\\interfaces\\iprojectsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.core\\interfaces\\iprojectsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|solutionrelative:taskboard.core\\interfaces\\iprojectsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.api\\contracts\\objectivesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|solutionrelative:taskboard.api\\contracts\\objectivesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.dataaccess\\entities\\objectiveentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|solutionrelative:taskboard.dataaccess\\entities\\objectiveentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.core\\models\\objective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|solutionrelative:taskboard.core\\models\\objective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1285F5E-D54E-43D9-A510-9464A64EA88F}|TaskBoard.Application\\TaskBoard.Application.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.application\\services\\objectivesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1285F5E-D54E-43D9-A510-9464A64EA88F}|TaskBoard.Application\\TaskBoard.Application.csproj|solutionrelative:taskboard.application\\services\\objectivesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.core\\interfaces\\iobjectivesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|solutionrelative:taskboard.core\\interfaces\\iobjectivesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.core\\interfaces\\iobjectivesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|solutionrelative:taskboard.core\\interfaces\\iobjectivesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|solutionrelative:taskboard.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.dataaccess\\entities\\projectentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|solutionrelative:taskboard.dataaccess\\entities\\projectentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.core\\interfaces\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|solutionrelative:taskboard.core\\interfaces\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.core\\interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|solutionrelative:taskboard.core\\interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.core\\exceptionservice\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|solutionrelative:taskboard.core\\exceptionservice\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.dataaccess\\configurations\\objectiveconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|solutionrelative:taskboard.dataaccess\\configurations\\objectiveconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.dataaccess\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|solutionrelative:taskboard.dataaccess\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|solutionrelative:taskboard.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|solutionrelative:taskboard.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1285F5E-D54E-43D9-A510-9464A64EA88F}|TaskBoard.Application\\TaskBoard.Application.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.application\\infrastructure\\mapping\\appmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1285F5E-D54E-43D9-A510-9464A64EA88F}|TaskBoard.Application\\TaskBoard.Application.csproj|solutionrelative:taskboard.application\\infrastructure\\mapping\\appmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.dataaccess\\entities\\projectmemberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|solutionrelative:taskboard.dataaccess\\entities\\projectmemberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Migrations\\20250404152051_NewTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskBoard.DataAccess\\Migrations\\20250404152051_NewTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Migrations\\20250404151107_NewTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskBoard.DataAccess\\Migrations\\20250404151107_NewTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.api\\taskboard.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|solutionrelative:taskboard.api\\taskboard.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.dataaccess\\migrations\\20250403171002_useradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|solutionrelative:taskboard.dataaccess\\migrations\\20250403171002_useradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.api\\contracts\\users\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|solutionrelative:taskboard.api\\contracts\\users\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.api\\contracts\\users\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|solutionrelative:taskboard.api\\contracts\\users\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.core\\interfaces\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|solutionrelative:taskboard.core\\interfaces\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1285F5E-D54E-43D9-A510-9464A64EA88F}|TaskBoard.Application\\TaskBoard.Application.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.application\\infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1285F5E-D54E-43D9-A510-9464A64EA88F}|TaskBoard.Application\\TaskBoard.Application.csproj|solutionrelative:taskboard.application\\infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.core\\interfaces\\auth\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|solutionrelative:taskboard.core\\interfaces\\auth\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.api\\contracts\\objectivesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|solutionrelative:taskboard.api\\contracts\\objectivesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|solutionrelative:taskboard.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.dataaccess\\migrations\\20250324204419_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|solutionrelative:taskboard.dataaccess\\migrations\\20250324204419_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.dataaccess\\migrations\\taskboarddbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|solutionrelative:taskboard.dataaccess\\migrations\\taskboarddbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.api\\taskboard.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{116F19A1-9BE9-4778-ACF7-B3C490728329}|TaskBoard.API\\TaskBoard.API.csproj|solutionrelative:taskboard.api\\taskboard.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.dataaccess\\taskboard.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CD680FE-15DB-4B25-9E8A-F9431DDDFB1A}|TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj|solutionrelative:taskboard.dataaccess\\taskboard.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|c:\\users\\andrey\\source\\repos\\taskboard\\taskboard.core\\taskboard.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52416ACC-7585-497B-BC49-AE369FEFBAB3}|TaskBoard.Core\\TaskBoard.Core.csproj|solutionrelative:taskboard.core\\taskboard.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\TaskBoard.API.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskBoard\\TaskBoard.API.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskBoard\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\TaskBoard.API.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskBoard\\TaskBoard.API.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskBoard\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskBoard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskBoard\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskBoard\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskBoard\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskBoard\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Application\\Infrastructure\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Application\\Infrastructure\\JwtProvider.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Application\\Infrastructure\\JwtProvider.cs",
+              "RelativeToolTip": "TaskBoard.Application\\Infrastructure\\JwtProvider.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T19:00:34.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Application\\Infrastructure\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Application\\Infrastructure\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Application\\Infrastructure\\JwtOptions.cs",
+              "RelativeToolTip": "TaskBoard.Application\\Infrastructure\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T19:27:38.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectCreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Contracts\\Projects\\ProjectCreateRequest.cs",
+              "RelativeDocumentMoniker": "TaskBoard.API\\Contracts\\Projects\\ProjectCreateRequest.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Contracts\\Projects\\ProjectCreateRequest.cs",
+              "RelativeToolTip": "TaskBoard.API\\Contracts\\Projects\\ProjectCreateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:55:50.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Program.cs",
+              "RelativeDocumentMoniker": "TaskBoard.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Program.cs",
+              "RelativeToolTip": "TaskBoard.API\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:51:41.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Repositories\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "TaskBoard.DataAccess\\Repositories\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Repositories\\UsersRepository.cs",
+              "RelativeToolTip": "TaskBoard.DataAccess\\Repositories\\UsersRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:11:31.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TaskBoard.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TaskBoard.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:26:19.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObjectivesController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Controllers\\ObjectivesController.cs",
+              "RelativeDocumentMoniker": "TaskBoard.API\\Controllers\\ObjectivesController.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Controllers\\ObjectivesController.cs",
+              "RelativeToolTip": "TaskBoard.API\\Controllers\\ObjectivesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:01:28.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Application\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Application\\Services\\UsersService.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Application\\Services\\UsersService.cs",
+              "RelativeToolTip": "TaskBoard.Application\\Services\\UsersService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAnwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:15:11.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "TaskBoard.API\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "TaskBoard.API\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA4wB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:48:23.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Core\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Models\\Project.cs",
+              "RelativeToolTip": "TaskBoard.Core\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:26:58.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectsService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Application\\Services\\ProjectsService.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Application\\Services\\ProjectsService.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Application\\Services\\ProjectsService.cs",
+              "RelativeToolTip": "TaskBoard.Application\\Services\\ProjectsService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:30:09.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskBoardDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\TaskBoardDbContext.cs",
+              "RelativeDocumentMoniker": "TaskBoard.DataAccess\\TaskBoardDbContext.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\TaskBoardDbContext.cs",
+              "RelativeToolTip": "TaskBoard.DataAccess\\TaskBoardDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:26:37.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Extensions\\ApiExtensions.cs",
+              "RelativeDocumentMoniker": "TaskBoard.API\\Extensions\\ApiExtensions.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Extensions\\ApiExtensions.cs",
+              "RelativeToolTip": "TaskBoard.API\\Extensions\\ApiExtensions.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAApwCYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:42:51.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProjectsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Interfaces\\IProjectsRepository.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Core\\Interfaces\\IProjectsRepository.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Interfaces\\IProjectsRepository.cs",
+              "RelativeToolTip": "TaskBoard.Core\\Interfaces\\IProjectsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:36:40.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProjectsService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Interfaces\\IProjectsService.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Core\\Interfaces\\IProjectsService.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Interfaces\\IProjectsService.cs",
+              "RelativeToolTip": "TaskBoard.Core\\Interfaces\\IProjectsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:31:45.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ObjectivesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Repositories\\ObjectivesRepository.cs",
+              "RelativeDocumentMoniker": "TaskBoard.DataAccess\\Repositories\\ObjectivesRepository.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Repositories\\ObjectivesRepository.cs",
+              "RelativeToolTip": "TaskBoard.DataAccess\\Repositories\\ObjectivesRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:08:00.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProjectsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Repositories\\ProjectsRepository.cs",
+              "RelativeDocumentMoniker": "TaskBoard.DataAccess\\Repositories\\ProjectsRepository.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Repositories\\ProjectsRepository.cs",
+              "RelativeToolTip": "TaskBoard.DataAccess\\Repositories\\ProjectsRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:37:20.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ObjectivesRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Contracts\\ObjectivesRequest.cs",
+              "RelativeDocumentMoniker": "TaskBoard.API\\Contracts\\ObjectivesRequest.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Contracts\\ObjectivesRequest.cs",
+              "RelativeToolTip": "TaskBoard.API\\Contracts\\ObjectivesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:54:01.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ObjectiveEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Entities\\ObjectiveEntity.cs",
+              "RelativeDocumentMoniker": "TaskBoard.DataAccess\\Entities\\ObjectiveEntity.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Entities\\ObjectiveEntity.cs",
+              "RelativeToolTip": "TaskBoard.DataAccess\\Entities\\ObjectiveEntity.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:29:40.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Objective.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Models\\Objective.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Core\\Models\\Objective.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Models\\Objective.cs",
+              "RelativeToolTip": "TaskBoard.Core\\Models\\Objective.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:45:40.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IObjectivesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Interfaces\\IObjectivesRepository.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Core\\Interfaces\\IObjectivesRepository.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Interfaces\\IObjectivesRepository.cs",
+              "RelativeToolTip": "TaskBoard.Core\\Interfaces\\IObjectivesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:00:29.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ObjectivesService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Application\\Services\\ObjectivesService.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Application\\Services\\ObjectivesService.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Application\\Services\\ObjectivesService.cs",
+              "RelativeToolTip": "TaskBoard.Application\\Services\\ObjectivesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:36:06.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IObjectivesService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Interfaces\\IObjectivesService.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Core\\Interfaces\\IObjectivesService.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Interfaces\\IObjectivesService.cs",
+              "RelativeToolTip": "TaskBoard.Core\\Interfaces\\IObjectivesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:56:05.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Models\\User.cs",
+              "RelativeToolTip": "TaskBoard.Core\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:23:47.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ObjectiveConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Configurations\\ObjectiveConfiguration.cs",
+              "RelativeDocumentMoniker": "TaskBoard.DataAccess\\Configurations\\ObjectiveConfiguration.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Configurations\\ObjectiveConfiguration.cs",
+              "RelativeToolTip": "TaskBoard.DataAccess\\Configurations\\ObjectiveConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:33:07.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Interfaces\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Core\\Interfaces\\IUsersRepository.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Interfaces\\IUsersRepository.cs",
+              "RelativeToolTip": "TaskBoard.Core\\Interfaces\\IUsersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:12:18.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Interfaces\\IUsersService.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Core\\Interfaces\\IUsersService.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Interfaces\\IUsersService.cs",
+              "RelativeToolTip": "TaskBoard.Core\\Interfaces\\IUsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:20:22.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProjectEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Entities\\ProjectEntity.cs",
+              "RelativeDocumentMoniker": "TaskBoard.DataAccess\\Entities\\ProjectEntity.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Entities\\ProjectEntity.cs",
+              "RelativeToolTip": "TaskBoard.DataAccess\\Entities\\ProjectEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:10:40.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "TaskBoard.DataAccess\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "TaskBoard.DataAccess\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:09:10.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\ExceptionService\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Core\\ExceptionService\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\ExceptionService\\UserNotFoundException.cs",
+              "RelativeToolTip": "TaskBoard.Core\\ExceptionService\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:11:45.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskBoard.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskBoard.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T16:13:51.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TaskBoard.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\appsettings.Development.json",
+              "RelativeToolTip": "TaskBoard.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T15:26:18.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProjectMemberEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Entities\\ProjectMemberEntity.cs",
+              "RelativeDocumentMoniker": "TaskBoard.DataAccess\\Entities\\ProjectMemberEntity.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Entities\\ProjectMemberEntity.cs",
+              "RelativeToolTip": "TaskBoard.DataAccess\\Entities\\ProjectMemberEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:49:07.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Application\\Infrastructure\\Mapping\\AppMappingProfile.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Application\\Infrastructure\\Mapping\\AppMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Application\\Infrastructure\\Mapping\\AppMappingProfile.cs",
+              "RelativeToolTip": "TaskBoard.Application\\Infrastructure\\Mapping\\AppMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:28:29.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250404152051_NewTables.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Migrations\\20250404152051_NewTables.cs",
+              "RelativeDocumentMoniker": "TaskBoard.DataAccess\\Migrations\\20250404152051_NewTables.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Migrations\\20250404152051_NewTables.cs",
+              "RelativeToolTip": "TaskBoard.DataAccess\\Migrations\\20250404152051_NewTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T15:20:51.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250404151107_NewTables.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Migrations\\20250404151107_NewTables.cs",
+              "RelativeDocumentMoniker": "TaskBoard.DataAccess\\Migrations\\20250404151107_NewTables.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Migrations\\20250404151107_NewTables.cs",
+              "RelativeToolTip": "TaskBoard.DataAccess\\Migrations\\20250404151107_NewTables.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T15:11:07.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TaskBoard.API.http",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\TaskBoard.API.http",
+              "RelativeDocumentMoniker": "TaskBoard.API\\TaskBoard.API.http",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\TaskBoard.API.http",
+              "RelativeToolTip": "TaskBoard.API\\TaskBoard.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-24T20:52:41.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250403171002_UserAdd.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Migrations\\20250403171002_UserAdd.cs",
+              "RelativeDocumentMoniker": "TaskBoard.DataAccess\\Migrations\\20250403171002_UserAdd.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Migrations\\20250403171002_UserAdd.cs",
+              "RelativeToolTip": "TaskBoard.DataAccess\\Migrations\\20250403171002_UserAdd.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:10:02.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegisterUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Contracts\\Users\\RegisterUserRequest.cs",
+              "RelativeDocumentMoniker": "TaskBoard.API\\Contracts\\Users\\RegisterUserRequest.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Contracts\\Users\\RegisterUserRequest.cs",
+              "RelativeToolTip": "TaskBoard.API\\Contracts\\Users\\RegisterUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:31:41.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Contracts\\Users\\LoginUserRequest.cs",
+              "RelativeDocumentMoniker": "TaskBoard.API\\Contracts\\Users\\LoginUserRequest.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Contracts\\Users\\LoginUserRequest.cs",
+              "RelativeToolTip": "TaskBoard.API\\Contracts\\Users\\LoginUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:50:43.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Interfaces\\Auth\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Core\\Interfaces\\Auth\\IJwtProvider.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Interfaces\\Auth\\IJwtProvider.cs",
+              "RelativeToolTip": "TaskBoard.Core\\Interfaces\\Auth\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T19:38:42.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Application\\Infrastructure\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Application\\Infrastructure\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Application\\Infrastructure\\PasswordHasher.cs",
+              "RelativeToolTip": "TaskBoard.Application\\Infrastructure\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:24:45.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Interfaces\\Auth\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "TaskBoard.Core\\Interfaces\\Auth\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\Interfaces\\Auth\\IPasswordHasher.cs",
+              "RelativeToolTip": "TaskBoard.Core\\Interfaces\\Auth\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:29:11.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ObjectivesResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Contracts\\ObjectivesResponse.cs",
+              "RelativeDocumentMoniker": "TaskBoard.API\\Contracts\\ObjectivesResponse.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\Contracts\\ObjectivesResponse.cs",
+              "RelativeToolTip": "TaskBoard.API\\Contracts\\ObjectivesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:04:47.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\docker-compose.yml",
+              "RelativeDocumentMoniker": "TaskBoard.API\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\docker-compose.yml",
+              "RelativeToolTip": "TaskBoard.API\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-03-24T19:12:20.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250324204419_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Migrations\\20250324204419_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TaskBoard.DataAccess\\Migrations\\20250324204419_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Migrations\\20250324204419_InitialCreate.cs",
+              "RelativeToolTip": "TaskBoard.DataAccess\\Migrations\\20250324204419_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:44:19.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TaskBoardDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Migrations\\TaskBoardDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TaskBoard.DataAccess\\Migrations\\TaskBoardDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\Migrations\\TaskBoardDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TaskBoard.DataAccess\\Migrations\\TaskBoardDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:44:55.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TaskBoard.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\TaskBoard.API.csproj",
+              "RelativeDocumentMoniker": "TaskBoard.API\\TaskBoard.API.csproj",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.API\\TaskBoard.API.csproj",
+              "RelativeToolTip": "TaskBoard.API\\TaskBoard.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T18:50:47.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskBoard\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskBoard\\Properties\\launchSettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T18:43:41.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TaskBoard\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\appsettings.Development.json",
+              "RelativeToolTip": "TaskBoard\\appsettings.Development.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T18:14:12.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TaskBoard.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj",
+              "RelativeDocumentMoniker": "TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj",
+              "RelativeToolTip": "TaskBoard.DataAccess\\TaskBoard.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T15:52:13.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskBoard\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\appsettings.json",
+              "RelativeToolTip": "TaskBoard\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T18:14:13.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TaskBoard.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\TaskBoard.Core.csproj",
+              "RelativeDocumentMoniker": "TaskBoard.Core\\TaskBoard.Core.csproj",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard.Core\\TaskBoard.Core.csproj",
+              "RelativeToolTip": "TaskBoard.Core\\TaskBoard.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T18:51:18.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TaskBoard.API.http",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\TaskBoard.API.http",
+              "RelativeDocumentMoniker": "TaskBoard\\TaskBoard.API.http",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\TaskBoard.API.http",
+              "RelativeToolTip": "TaskBoard\\TaskBoard.API.http",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-20T15:15:47.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\docker-compose.yml",
+              "RelativeDocumentMoniker": "TaskBoard\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\docker-compose.yml",
+              "RelativeToolTip": "TaskBoard\\docker-compose.yml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-20T18:19:38.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TaskBoard.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\TaskBoard.API.csproj",
+              "RelativeDocumentMoniker": "TaskBoard\\TaskBoard.API.csproj",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\TaskBoard.API.csproj",
+              "RelativeToolTip": "TaskBoard\\TaskBoard.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T18:38:23.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\Program.cs",
+              "RelativeDocumentMoniker": "TaskBoard\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\Program.cs",
+              "RelativeToolTip": "TaskBoard\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:26:00.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TaskBoard\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TaskBoard\\Controllers\\WeatherForecastController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:15:57.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TaskBoard\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\TaskBoard\\TaskBoard\\WeatherForecast.cs",
+              "RelativeToolTip": "TaskBoard\\WeatherForecast.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:15:34.731Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
